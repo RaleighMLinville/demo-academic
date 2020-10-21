@@ -28,9 +28,10 @@ tags:
 featured: true
 
 links:
-- name: [In the news](https://aacr.altmetric.com/details/85830885/news)
 
-#url_pdf: '#'
+#- name: [In the news](https://aacr.altmetric.com/details/85830885/news)
+
+url_news: 'https://aacr.altmetric.com/details/85830885/news'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
