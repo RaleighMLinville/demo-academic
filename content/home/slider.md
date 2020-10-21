@@ -18,7 +18,7 @@ height = 'calc(100vh - 70px)'
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
-  content = "Tumor-vessel interactions"
+  content = "[Tumor-vessel interactions](https://cancerres.aacrjournals.org/content/80/19/4288.short)"
   align = "Left"  # Choose `center`, `left`, or `right`.
   
   # Overlay a color or image (optional).
@@ -30,10 +30,10 @@ height = 'calc(100vh - 70px)'
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Full text"
-  cta_url = "https://cancerres.aacrjournals.org/content/80/19/4288.short"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  #cta_label = "Full text"
+  #cta_url = "https://cancerres.aacrjournals.org/content/80/19/4288.short"
+  #cta_icon_pack = "fas"
+  #cta_icon = "graduation-cap"
 
 [[item]]
   title = "Cool image 2.0"
