@@ -1,10 +1,10 @@
 
 ---
 title: "A Tissue-Engineered 3D Microvessel Model Reveals the Dynamics of Mosaic Vessel Formation in Breast Cancer"
-authors: Vanesa L. Silvestri, Elodie Henriet, Raleigh M. Linville, Andrew D. Wong, Peter C. Searson and Andrew J. Ewald
+authors: "Vanesa L. Silvestri, Elodie Henriet, Raleigh M. Linville, Andrew D. Wong, Peter C. Searson and Andrew J. Ewald"
 - admin
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "[10.1158/0008-5472.CAN-19-1564]"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -39,7 +39,7 @@ url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-  image: 'Figure1-01.tif'
+  image: 'Figure1.png'
  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
