@@ -26,7 +26,7 @@ featured: true
 
 links:
 - name: In the news
-url: 'https://aacr.altmetric.com/details/85830885/news'
+url: 'aacr.altmetric.com/details/85830885/news'
 
 #url_pdf: '#'
 #url_code: '#'
