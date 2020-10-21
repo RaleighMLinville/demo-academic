@@ -28,8 +28,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: In the news
+  url: http://aacr.altmetric.com/details/85830885/news
   
 #url_news: https://aacr.altmetric.com/details/85830885/news
 #url_code: '#'
