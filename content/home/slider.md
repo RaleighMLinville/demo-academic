@@ -24,7 +24,7 @@ height = 'calc(100vh - 70px)'
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = '[cancer-vessel.jpg](https://cancerres.aacrjournals.org/content/80/19/4288.short)' 
+  overlay_img = ['cancer-vessel.jpg'](https://cancerres.aacrjournals.org/content/80/19/4288.short)
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
