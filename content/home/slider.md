@@ -17,14 +17,14 @@ height = 'calc(100vh - 70px)'
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Tumor-vessel interactions"
-  content = "Subtext"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  title = ""
+  content = "Tumor-vessel interactions"
+  align = "Left"  # Choose `center`, `left`, or `right`.
   
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/cancer vessel.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "cancer-vessel.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
