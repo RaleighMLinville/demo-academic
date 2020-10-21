@@ -1,25 +1,22 @@
 
 ---
-title: "An example conference paper"
-authors:
+title: "A Tissue-Engineered 3D Microvessel Model Reveals the Dynamics of Mosaic Vessel Formation in Breast Cancer"
+authors: Vanesa L. Silvestri, Elodie Henriet, Raleigh M. Linville, Andrew D. Wong, Peter C. Searson and Andrew J. Ewald
 - admin
 date: "2013-07-01T00:00:00Z"
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Cancer Research*
+#publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In solid tumors, vascular structure and function varies from the core to the periphery. This structural heterogeneity has been proposed to influence the mechanisms by which tumor cells enter the circulation. Blood vessels exhibit regional defects in endothelial coverage, which can result in cancer cells directly exposed to flow and potentially promoting intravasation. Consistent with prior reports, we observed in human breast tumors and in a mouse model of breast cancer that approximately 6% of vessels consisted of both endothelial cells and tumor cells, so-called mosaic vessels. Due, in part, to the challenges associated with observing tumor–vessel interactions deep within tumors in real-time, the mechanisms by which mosaic vessels form remain incompletely understood. We developed a tissue-engineered model containing a physiologically realistic microvessel in coculture with mammary tumor organoids. This approach allows real-time and quantitative assessment of tumor–vessel interactions under conditions that recapitulate many in vivo features. Imaging revealed that tumor organoids integrate into the endothelial cell lining, resulting in mosaic vessels with gaps in the basement membrane. While mosaic vessel formation was the most frequently observed interaction, tumor organoids also actively constricted and displaced vessels. Furthermore, intravasation of cancer cell clusters was observed following the formation of a mosaic vessel. Taken together, our data reveal that cancer cells can rapidly reshape, destroy, or integrate into existing blood vessels, thereby affecting oxygenation, perfusion, and systemic dissemination. Our novel assay also enables future studies to identify targetable mechanisms of vascular recruitment and intravasation.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
