@@ -40,7 +40,7 @@ height = 'calc(100vh - 70px)'
   content = "I am left aligned :smile:"
   align = "left"
 
-  overlay_img = "static/media/pc-ec_2.jpg”
+  overlay_img = "pc-ec_2.jpg”
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -49,6 +49,6 @@ height = 'calc(100vh - 70px)'
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = “static/media/zoibead.jpg”
+  overlay_img = “zoibead.jpg”
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
