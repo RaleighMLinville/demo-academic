@@ -61,9 +61,9 @@ Neurodegenerative disease (NDD)... review on [cerebrovascular plasticity during 
 
 ## Other resources
 
-- 📚 View my recent publications
+- 📚 View my recent [publications](https://raleigh-linville.netlify.app/#Publications)
 - 🐦 Twitter: [@LinvilleRaleigh](https://twitter.com/LinvilleRaleigh) 
 - 🎉 Check out recent news
-- 🍎 Check out resources to teach out tissue engineering and the BBB
+- 🍎 Check out [resources](https://raleigh-linville.netlify.app/#Resources) for teaching about tissue engineering and the BBB
 - 🌳 Check out my research family tree
 
