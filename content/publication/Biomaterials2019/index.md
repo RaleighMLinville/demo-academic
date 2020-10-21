@@ -39,7 +39,7 @@ url: https://aacr.altmetric.com/details/85830885/news
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
- image: 'Figure1.png'
+ # image: 'Figure1.png'
  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
  # focal_point: ""
  # preview_only: false
