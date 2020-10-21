@@ -7,7 +7,7 @@ authors:
 - Andrew D. Wong
 - Peter C. Searson
 - Andrew J. Ewald
-date: "2020-10"
+date: "2020-10-01T00:00:00Z"
 doi: "10.1158/0008-5472.CAN-19-1564"
 
 # Publication type.
@@ -28,7 +28,10 @@ tags:
 featured: true
 
 links:
-url_news: https://aacr.altmetric.com/details/85830885/news
+- name: Custom Link
+  url: http://example.org
+  
+#url_news: https://aacr.altmetric.com/details/85830885/news
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
